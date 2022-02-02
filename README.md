@@ -26,19 +26,19 @@
 <p align="center"><a href = "https://www.linkedin.com/in/arnav-sarkar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/><a><a href = "https://twitter.com/4rnavS"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-***
+
 <br/>
 
 <p align="center">
     <a href="https://github.com/4rnav/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav&theme=black-ice&hide_border=fasle&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav&theme=gotham&hide_border=true&stroke=0000"/>
     </a>
 </p>
 
 <p align="center">
   <br/>
     <!-- <a href="https://github.com/4rnav/github-readme-stats"><img alt="Arnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4rnav&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a> -->
-  <a href="https://github.com/4rnav/github-readme-stats"><img alt="Arnav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/4rnav/github-readme-stats"><img alt="Arnav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true&" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
