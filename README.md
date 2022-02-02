@@ -3,14 +3,12 @@
 <br />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnav</h1>
 
-<p align="center">
+<h3 align="center" style="color:yellow;" >About Me</h3>  
+ <div align="center">
+ 👨🏻‍🎓 Comp Sci @ Vellore Institute of Technology
+<br>👨‍💻 Learning Flutter, Firebas and java
+ </div>
 
-
--  👨🏻‍🎓 Computer Science @ Vellore Institute of Technology
-
--  🌱 I’m currently learning **Flutter, Firebase and Java**
-
-</p>
 
 ***
 <br />
