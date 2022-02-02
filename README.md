@@ -8,7 +8,6 @@
  👨🏻‍🎓 Comp Sci @ Vellore Institute of Technology
 <br>👨‍💻 Learning Flutter, Firebase and Java
  </div>
-***
 <br />
 <br />
 
