@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./img/mario-pixel-art.gif"/></a>
+<p align="center"><a href="#"><img width="75%" height="auto" src="./img/mario-pixel-art.gif"/></a></p>
 <br />
 <br />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnav</h1>
