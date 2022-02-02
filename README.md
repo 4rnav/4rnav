@@ -6,10 +6,8 @@
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
  👨🏻‍🎓 Comp Sci @ Vellore Institute of Technology
-<br>👨‍💻 Learning Flutter, Firebas and java
+<br>👨‍💻 Learning Flutter, Firebase and Java
  </div>
-
-
 ***
 <br />
 <br />
