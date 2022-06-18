@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="75%" height="auto" src="./img/mario-pixel-art.gif"/></a></p>
 <br />
 <br />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnav</h1>
+<h1 align="center">Hi, I'm Arnav</h1>
 
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
