@@ -21,7 +21,7 @@
 <p align="center"> 
 <h3 align="center" style="color:yellow;" >Connect with Me</h3>  
  </p>
-<p align="center"><a href = "https://www.linkedin.com/in/arnav-sarkar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/><a><a href = "https://twitter.com/4rnavS"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<p align="center"><a href = "https://www.linkedin.com/in/arnav-sarkar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 
 </p>
 <br>
